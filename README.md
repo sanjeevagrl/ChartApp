@@ -1,4 +1,11 @@
-##  Angular Chart for Gov Spending
+##  Angular Chart for Gov Spending web Application
+
+## Purpose
+
+The idea is to **demonstrate Angular web application **. 
+
+This is a responsive Angular web application to show Gov spending. 
+
 
 This course repository is in Angular v13:
 
