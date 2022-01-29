@@ -1,0 +1,74 @@
+[
+  {
+    "Date": "01/12/2016",
+    "ExpenseType": "Secondments",
+    "ExpenseArea": "Chief Executive",
+    "Supplier": "University of Nottingham",
+    "TransactionNumber": 97733007,
+    "Amount": 2000.96,
+    "InvoiceCurrencyUnit": "GBP"
+  },
+  {
+    "Date": "01/12/2016",
+    "ExpenseType": "Recruitment Costs",
+    "ExpenseArea": "EPSRC Corporate Services",
+    "Supplier": "Agenda Resource Management Ltd",
+    "TransactionNumber": 97738356,
+    "Amount": 97,
+    "InvoiceCurrencyUnit": "GBP"
+  },
+  {
+    "Date": "02/12/2016",
+    "ExpenseType": "Marketing & PR",
+    "ExpenseArea": "Communications and Stakeholder Engagement",
+    "Supplier": "Unspecified",
+    "TransactionNumber": 97736586,
+    "Amount": 400,
+    "InvoiceCurrencyUnit": "GBP"
+  },
+  {
+    "Date": "02/12/2016",
+    "ExpenseType": "Marketing & PR",
+    "ExpenseArea": "Communications and Stakeholder Engagement",
+    "Supplier": "LM INFORMATION DELIVERY UK LTD (LM TIETOPALVELUT OY)",
+    "TransactionNumber": 97737449,
+    "Amount": 916.43,
+    "InvoiceCurrencyUnit": "GBP"
+  },
+  {
+    "Date": "06/12/2016",
+    "ExpenseType": "Fees (Including College Members)",
+    "ExpenseArea": "Admin Peer Review and Output (excluding external panel member fees)",
+    "Supplier": "Unspecified",
+    "TransactionNumber": 97746799,
+    "Amount": 160,
+    "InvoiceCurrencyUnit": "GBP"
+  },
+  {
+    "Date": "06/12/2016",
+    "ExpenseType": "Fees (Including College Members)",
+    "ExpenseArea": "Admin Peer Review and Output (excluding external panel member fees)",
+    "Supplier": "Unspecified",
+    "TransactionNumber": 97746800,
+    "Amount": 160,
+    "InvoiceCurrencyUnit": "GBP"
+  },
+  {
+    "Date": "07/12/2016",
+    "ExpenseType": "T&S UK - Vehicle Hire",
+    "ExpenseArea": "Director BI/BR",
+    "Supplier": "Enterprise Rent-A-Car UK Ltd",
+    "TransactionNumber": 97747598,
+    "Amount": 494.59,
+    "InvoiceCurrencyUnit": "GBP"
+  },
+  {
+    "Date": "07/12/2016",
+    "ExpenseType": "T&S UK - Vehicle Hire",
+    "ExpenseArea": "Programme Delivery Energy",
+    "Supplier": "Enterprise Rent-A-Car UK Ltd",
+    "TransactionNumber": 97747598,
+    "Amount": 275.66,
+    "InvoiceCurrencyUnit": "GBP"
+  }
+]
