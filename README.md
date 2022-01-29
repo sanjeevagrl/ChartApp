@@ -28,4 +28,10 @@ Its also possible to install the modules as usual using npm:
 
     npm install
 
+# To run the Development UI Server
 
+To run the frontend part of our code, we will use the Angular CLI:
+
+    npm start
+
+The application is visible at port 4200: [http://localhost:4200](http://localhost:4200)
