@@ -18,3 +18,14 @@ With the following command the angular-cli will be installed globally in your ma
 We can install the master branch using the following commands:
 
     git clone https://github.com/sanjeevagrl/ChartApp.git
+    
+This repository is made of several separate npm modules, that are installable separately:
+
+    cd  ChartProject
+    npm install
+
+Its also possible to install the modules as usual using npm:
+
+    npm install
+
+
